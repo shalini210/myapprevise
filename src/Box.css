@@ -1,0 +1,33 @@
+.container {
+    height: auto;
+    width: 200px;
+  }
+  .box {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    border-radius: 2px;
+
+  }
+  .box>h1
+  {
+    font-size: large;
+  }
+  .box>p{
+    font-size: small;
+    width: 100%;
+  }
+  .backcolor
+  {
+    height: 20px;
+  }
+  .box>button
+  {
+    background-color: blue;
+    color: white;
+    font-size: medium;
+
+  }
+  

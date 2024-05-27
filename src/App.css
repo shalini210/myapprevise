@@ -1,3 +1,11 @@
+.city-Container
+{
+  background-color: #aca0a0;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3%;
+}
 .Card-Container
 {
 display: flex;

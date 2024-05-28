@@ -6,11 +6,17 @@ import Citydata from './Citydata';
 import Box from "./Box"
 import UsingState from './UsingState';
 import SumusingState from './SumusingState';
+import Counter from './Counter';
+import Referenceeg from './Referenceeg';
+import Sumusingref from './Sumusingref';
 function App() {
  return(
   <div>
-    <SumusingState></SumusingState>
-    <UsingState></UsingState>
+    <Sumusingref></Sumusingref>
+    {/* <Referenceeg></Referenceeg>
+    <Counter></Counter> */}
+    {/* <SumusingState></SumusingState>
+    <UsingState></UsingState> */}
   </div>
  )
 }

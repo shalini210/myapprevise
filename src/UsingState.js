@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-
 export default function UsingState() {
     var a = 10;
     const [b,setb]= useState(0);

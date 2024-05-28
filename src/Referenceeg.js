@@ -9,11 +9,9 @@ export default function Referenceeg() {
     }
   return (
     <div>
-       Enter Name
-    <input type="text" ref={refa} onBlur={showhello}></input>
-       WElcome : {n}
-
+    Enter Name
+<input type="text" ref={refa} onBlur={showhello}></input>
+    WElcome : {n}
     </div>
-
   )
 }
